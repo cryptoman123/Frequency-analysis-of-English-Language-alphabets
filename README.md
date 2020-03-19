@@ -10,3 +10,4 @@ This encrption technique has following names:<br>
 </p>
 
 ![GIF unable to load](https://bournetocode.com/projects/8-CS-Cryptography/pages/img/Caeser.gif)
+
