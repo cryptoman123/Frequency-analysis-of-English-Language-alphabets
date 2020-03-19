@@ -8,4 +8,4 @@ This encrption technique has following names:<br>
 1. <b>Caesar's Cypher</b> <br>
 2. <b>Shift Cypher</b> <br>
 </p>
-![](https://bournetocode.com/projects/8-CS-Cryptography/pages/img/Caeser.gif)
+![GIF unable to load](https://bournetocode.com/projects/8-CS-Cryptography/pages/img/Caeser.gif)
